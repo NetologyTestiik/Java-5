@@ -1,8 +1,8 @@
 public class BmiService {
-    public double calculate(Float meters, int kilograms){
+    public float calculate(float meters, int kilograms){
         meters = 1.87F;
         kilograms = 98;
-        double index = (int) (kilograms / (meters * meters));
+        float index = (int) (kilograms / (meters * meters));
         return index;
 
     }

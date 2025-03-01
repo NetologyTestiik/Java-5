@@ -27,6 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.idea/
-Java 5.iml/
+echo ".idea" >> .gitignore/
+echo ".iml" >> .gitignore/
+
 

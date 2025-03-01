@@ -26,8 +26,8 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
-echo ".idea" >> .gitignore/
-echo ".iml" >> .gitignore/
+.DS_Store/
+.idea/
+Java 5.iml/
 
 
